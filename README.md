@@ -1,0 +1,2 @@
+# shopifytheme
+Basic Shopify Theme
